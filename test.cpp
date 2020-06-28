@@ -6,6 +6,6 @@ int main()
     int x;
     cout<<"Enter x:";
     cin>>x;
-    cout<<x;
+    cout<<"Value of x="<<x;
     return 0;
 }
